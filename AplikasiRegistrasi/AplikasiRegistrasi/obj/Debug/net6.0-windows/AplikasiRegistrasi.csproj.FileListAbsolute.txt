@@ -1,0 +1,17 @@
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\bin\Debug\net6.0-windows\AplikasiRegistrasi.exe
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\bin\Debug\net6.0-windows\AplikasiRegistrasi.deps.json
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\bin\Debug\net6.0-windows\AplikasiRegistrasi.runtimeconfig.json
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\bin\Debug\net6.0-windows\AplikasiRegistrasi.dll
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\bin\Debug\net6.0-windows\AplikasiRegistrasi.pdb
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.csproj.AssemblyReference.cache
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.Form1.resources
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.csproj.GenerateResource.cache
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.AssemblyInfoInputs.cache
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.AssemblyInfo.cs
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.csproj.CoreCompileInputs.cache
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.dll
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\refint\AplikasiRegistrasi.dll
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.pdb
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\AplikasiRegistrasi.genruntimeconfig.cache
+C:\Users\PC17\source\repos\AplikasiRegistrasi\AplikasiRegistrasi\obj\Debug\net6.0-windows\ref\AplikasiRegistrasi.dll
